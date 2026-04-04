@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer+%7C+AWS+%7C+DevSecOps;Zero+Trust+Architecture+%7C+IAM+%7C+SCP;Securing+Cloud+%F0%9F%94%90+Automating+DevOps+%F0%9F%9A%80;5.5%2B+Years+Experience+in+Cloud+%26+Security)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" />
-
 </div>
 
 ---
@@ -133,5 +131,8 @@
 <div align="center">
 
 ### 💡 "Security is not a feature — it's the foundation." 🔐
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nivas-CloudSecurityEngineer&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Nivas-CloudSecurityEngineer?label=Follow&style=social)](https://github.com/Nivas-CloudSecurityEngineer)
 
 </div>
