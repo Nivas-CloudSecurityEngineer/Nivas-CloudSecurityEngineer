@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Nivas D | Cloud Security Engineer
+# 🔐 Nivas | Cloud Security Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer+%7C+AWS+%7C+DevSecOps;Zero+Trust+Architecture+%7C+IAM+%7C+SCP;Securing+Cloud+%F0%9F%94%90+Automating+DevOps+%F0%9F%9A%80;5.5%2B+Years+Experience+in+Cloud+%26+Security)](https://git.io/typing-svg)
 
