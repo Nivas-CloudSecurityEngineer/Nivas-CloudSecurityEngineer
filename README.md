@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-💼 Cloud Security Engineer with **5.5+ years experience**  
+💼 **Cloud Security Engineer** 
 ☁️ Specialized in **AWS Security & DevSecOps**  
 🔐 Expert in **Zero Trust Architecture & IAM Governance**  
 ⚙️ Passionate about **Automation & Secure Infrastructure**
@@ -90,7 +90,7 @@
 - Centralized Security Monitoring
 
 ⚙️ **Secure CI/CD Pipeline**
-- Jenkins + SAST (Snyk)
+- Jenkins + SAST + DAST + Snyk
 - Container Scan (Trivy)
 - Auto Rollback & Alerts
 
