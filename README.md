@@ -1,26 +1,63 @@
-<div align="center">
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Profile%20Views-210.5k-blue?style=flat-square" alt="Profile Views" />
+</p>
 
-# 🔐 Nivas | Cloud Security Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4c92&height=200&section=header&text=👋%20Hi,%20I'm%20Nivas&fontSize=40&fontColor=ffffff" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer+%7C+AWS+%7C+DevSecOps;Zero+Trust+Architecture+%7C+IAM+%7C+SCP;Securing+Cloud+%F0%9F%94%90+Automating+DevOps+%F0%9F%9A%80;7%2B+Years+Experience+in+Cloud+%26+Security)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=800&color=0E4C92&center=true&vCenter=true&width=900&height=80&lines=Cloud+Security+Specialist+%E2%80%A2+DevSecOps+Engineer+%E2%80%A2+AWS" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🎯 **Core Expertise**
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevSecOps-0A66C2?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cyber%20Security-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-💼 **Cloud Security Engineer** 
-☁️ Specialized in **AWS Security & DevSecOps**  
-🔐 Expert in **Zero Trust Architecture & IAM Governance**  
-⚙️ Passionate about **Automation & Secure Infrastructure**
+---
 
-🚀 **What I Do:**
-- 🔐 Design Zero Trust Architectures  
-- 🛡️ Implement IAM, SCP & Security Controls  
-- ⚙️ Build Secure CI/CD Pipelines  
-- 📊 Monitor & Detect using Security Tools  
-- ☁️ Automate Infra using Terraform & Python  
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+💼 <b>Cloud Security Engineer</b><br>
+☁️ <b>AWS Security • DevSecOps</b><br>
+🔐 <b>Zero Trust Architecture • IAM Governance</b><br>
+⚙️ <b>Automation • Secure Infrastructure</b>
+</p>
+
+---
+
+<h3 align="center">🚀 What I Do</h3>
+
+<p align="center">
+🔐 Zero Trust Architecture Design<br>
+🛡️ IAM • SCP • Security Control Implementation<br>
+⚙️ Secure CI/CD Pipeline Engineering<br>
+📊 Threat Monitoring & Detection<br>
+☁️ Infrastructure Automation (Terraform • Python)
+</p> 
+
+---
+
+### 🛠️ **Languages & Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,git,github,jenkins,prometheus,grafana,windows" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  </a>
+</p>
 
 ---
 
@@ -98,12 +135,16 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nivas-CloudSecurityEngineer&show_icons=true&theme=github_dark&hide=prs" height="180"/>
+
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Nivas-CloudSecurityEngineer&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 
 ---
 
@@ -115,14 +156,22 @@
 
 ---
 
-## 📫 Connect With Me
-
+### 🎮 **Play Tetris**
 <p align="center">
+  <a href="https://tetris.com/play-tetris">
+    <img src="https://img.shields.io/badge/Tetris-Play%20Now-blueviolet?style=for-the-badge&logo=tetris&logoColor=white" alt="Play Tetris" />
+  </a>
+</p>
+
+---
+
+### 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
   <a href="mailto:iamnivas22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -136,3 +185,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Nivas-CloudSecurityEngineer?label=Follow&style=social)](https://github.com/Nivas-CloudSecurityEngineer)
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4c92&height=120&section=footer" />
+</p>
